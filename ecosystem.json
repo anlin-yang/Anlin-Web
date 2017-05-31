@@ -1,0 +1,28 @@
+{
+  "app": [
+    {
+      "name": "Website",
+      "script": "app.js",
+      "env": {
+        "COMMON_VARIABLE": "true",
+      },
+      "env_production": {
+        "NODE_ENV": "production"
+      }
+    }
+  ],
+  "deploy": {
+    "production": {
+      "user": "anlin",
+      "host": ["47.93.3.203"],
+      "port": "50022",
+      "ref": "origin/master",
+      "repo": "git@github.com:anlin-yang/Anlin-Web.git",
+      "path": "/wwww/website/production",
+      "ssh_options": "StrictHostKeyChecking=no",
+      "env": {
+        "NODE_ENV": "production"
+      }
+    }
+  }
+}
