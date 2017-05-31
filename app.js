@@ -38,7 +38,7 @@ const homePage = `
     <nav>
       <ul>
         <li>
-          <a target="_blank" href="http:\/\/localhost:3030">Anlin\`s Blog</a>
+          <a target="_blank" href="http:\/\/blog.wulisky.com">Anlin\`s Blog</a>
         </li>
         <li>
           <a target="_blank" href="http:\/\/localhost:4000">Anlin\`s Photo</a>
