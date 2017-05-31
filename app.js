@@ -38,13 +38,13 @@ const homePage = `
     <nav>
       <ul>
         <li>
-          <a target="_blank" href="http:\/\/blog.wulisky.com">Anlin\`s Blog</a>
+          <a target="" href="http:\/\/blog.wulisky.com">Anlin\`s Blog</a>
         </li>
         <li>
-          <a target="_blank" href="http:\/\/photo.wulisky.com">Anlin\`s Photo</a>
+          <a target="" href="http:\/\/photo.wulisky.com">Anlin\`s Photo</a>
         </li>
         <li>
-          <a target="_blank" href="http:\/\/live.wulisky.com">Anlin\`s Live</a>
+          <a target="" href="http:\/\/live.wulisky.com">Anlin\`s Live</a>
         </li>
       </ul>
     </nav>
