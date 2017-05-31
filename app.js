@@ -41,10 +41,10 @@ const homePage = `
           <a target="_blank" href="http:\/\/blog.wulisky.com">Anlin\`s Blog</a>
         </li>
         <li>
-          <a target="_blank" href="http:\/\/localhost:4000">Anlin\`s Photo</a>
+          <a target="_blank" href="http:\/\/photo.wulisky.com">Anlin\`s Photo</a>
         </li>
         <li>
-          <a target="_blank" href="http:\/\/localhost:5000">Anlin\`s Live</a>
+          <a target="_blank" href="http:\/\/live.wulisky.com">Anlin\`s Live</a>
         </li>
       </ul>
     </nav>
